@@ -7,7 +7,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
-import javax.swing.table.DefaultTableModel;
 //Essa é a classe que faz a conexao com o banco de dados
 //Observe que dentro dos métodos dessa classe sempre chamo os getters para pegar os valores armazenados na memoria
 //atraves dos métodos setters
